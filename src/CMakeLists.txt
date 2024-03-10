@@ -1,0 +1,2 @@
+add_subdirectory(PdbExplorer)
+add_subdirectory(PdbLoader)
